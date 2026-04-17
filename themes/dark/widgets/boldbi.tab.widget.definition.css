@@ -7,4 +7,5 @@
 --tab-widget-tab-header-selection-color: var(--primary-branding-color);
 --tab-widget-container-border-radius: var(--widget-container-border-radius);
 --tab-widget-container-border-color: var(--widget-container-border-color);
+--tab-widget-container-bg-color:var(--widget-primary-background);
 }

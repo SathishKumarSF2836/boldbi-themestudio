@@ -2,7 +2,8 @@
 --rte-widget-content-font-color:var(--widget-primary-font-color);
 --rte-widget-content-fontweight:var(--widget-fontweight);
 --rte-widget-content-fontfamily:var(--widget-fontfamily);
---rte-widget-content-fontsrc:var(--widget-fontsrc)
+--rte-widget-content-fontsrc:var(--widget-fontsrc);
 --rte-widget-container-border-radius: var(--widget-container-border-radius);
 --rte-widget-container-border-color: var(--widget-container-border-color);
+--rte-widget-container-bg-color:var(--widget-primary-background);
 }

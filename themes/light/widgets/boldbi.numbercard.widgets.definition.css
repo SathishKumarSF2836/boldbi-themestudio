@@ -22,4 +22,6 @@
  --numbercard-widget-title-fontsrc:var(--widget-fontsrc);
  --numbercard-widget-container-border-radius: var(--widget-container-border-radius);
  --numbercard-widget-container-border-color: var(--widget-container-border-color);
+ --numbercard-widget-container-bg-color:var(--widget-primary-background);
+ --numbercard-widget-hover-background-color: var(--active-bg-hover-color);
 }

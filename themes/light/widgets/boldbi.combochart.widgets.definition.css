@@ -37,4 +37,5 @@
 --combochart-widget-marker-color:#ffffff;
 --combochart-widget-container-border-radius: var(--widget-container-border-radius);
 --combochart-widget-container-border-color: var(--widget-container-border-color);
+--combochart-widget-container-bg-color:var(--widget-primary-background);
 }

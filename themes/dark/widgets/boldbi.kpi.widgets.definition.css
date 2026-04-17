@@ -42,5 +42,9 @@
  --kpicard-widget-title-fontfamily:var(--widget-fontfamily);
  --kpicard-widget-title-fontsrc:var(--widget-fontsrc);
  --kpicard-widget-container-border-radius: var(--widget-container-border-radius);
---kpicard-widget-container-border-color: var(--widget-container-border-color);
+ --kpicard-widget-container-border-color: var(--widget-container-border-color);
+ --kpicard-widget-container-bg-color:var(--widget-primary-background);
+ --kpicard-widget-primary-value-and-label-color:#0AA5ED;
+ --kpicard-widget-secondary-value-and-label-color:#00ACA0;
+ --kpicard-widget-hover-background-color: var(--active-bg-hover-color);
 }

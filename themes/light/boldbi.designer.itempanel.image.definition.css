@@ -8,6 +8,7 @@
   --designer-itempanel-rador-polar-icon: url('light/images/widgets/radar_polar.svg');
   --designer-itempanel-map-icon: url('light/images/widgets/map.svg');
   --designer-itempanel-bing-map-icon: url('light/images/widgets/bing_map.svg');
+  --designer-itempanel-azure-map-icon: url('light/images/widgets/azure_map.svg');
   --designer-itempanel-grid-icon: url('light/images/widgets/grid.svg');
   --designer-itempanel-pivot-grid-icon: url('light/images/widgets/pivot_grid.svg');
   --designer-itempanel-tree-map-icon: url('light/images/widgets/tree_map.svg');
@@ -40,4 +41,6 @@
   --designer-itempanel-combine-widget-icon: url('light/images/widgets/combine_widget.svg');
   --designer-itempanel-line1-icon: url('light/images/widgets/line1.svg');
   --designer-itempanel-tab-widget: url('light/images/widgets/tabwidget.svg');
+  --designer-itempanel-qa-widget: url('light/images/widgets/qawidget.svg');
+  --designer-itempanel-button-widget: url('light/images/widgets/buttonwidget.svg');
 }

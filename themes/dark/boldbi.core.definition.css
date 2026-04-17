@@ -2,7 +2,7 @@
     --selection-container-color: var(--primary-branding-color);
     --selection-container-border-color: var(--primary-branding-border-color);
     --primary-background-color: #181E2B;
-    --secondary-background-color: #222733;  
+    --secondary-background-color: #222733;
     --designer-header-background: #333842;
     --primary-border-color: #4C545F;
     --secondary-border-color: #969DA6;
@@ -13,4 +13,5 @@
     --disable-icon-color: #7B838E;
 	--active-bg-hover-color: #3B82F633;
     --loading-indicator-color: var(--primary-branding-color);
+    --keyboard-navigation-ring-color: #ffffff;
 }

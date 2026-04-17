@@ -19,6 +19,7 @@
  --rangeslider-widget-label-fontweight:var(--widget-fontweight);
  --rangeslider-widget-label-fontfamily:var(--widget-fontfamily);
  --rangeslider-widget-label-fontsrc:var(--widget-fontsrc);
---rangeslider-widget-container-border-radius: var(--widget-container-border-radius);
---rangeslider-widget-container-border-color: var(--widget-container-border-color);
+ --rangeslider-widget-container-border-radius: var(--widget-container-border-radius);
+ --rangeslider-widget-container-border-color: var(--widget-container-border-color);
+ --rangeslider-widget-container-bg-color:var(--widget-primary-background);
 }

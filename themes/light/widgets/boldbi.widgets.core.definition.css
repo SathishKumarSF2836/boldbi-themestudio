@@ -24,4 +24,9 @@
   --widget-loading-indicator-color: var(--loading-indicator-color);
   --widget-container-border-color: #D3D3D3;
   --widget-container-border-radius: 4px;
+  --designer-loading-indicator-bg-color:var(--designer-container-background);
+  --widget-description-font-size: var(--dashboard-description-font-size);
+  --widget-description-font-weight: var(--dashboard-description-font-weight);
+  --widget-description-font-family: var(--dashboard-description-font-family);
+  --widget-control-icon-wrapper-font-size: "";
 }

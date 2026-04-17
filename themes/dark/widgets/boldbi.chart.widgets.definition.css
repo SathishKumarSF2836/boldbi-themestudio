@@ -37,4 +37,5 @@
 --chart-widget-marker-color: var(--secondary-background-color);
 --chart-widget-container-border-radius: var(--widget-container-border-radius);
 --chart-widget-container-border-color: var(--widget-container-border-color);
+--chart-widget-container-bg-color:var(--widget-primary-background);
 }

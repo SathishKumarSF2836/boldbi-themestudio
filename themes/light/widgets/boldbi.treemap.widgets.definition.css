@@ -24,4 +24,5 @@
 --treemap-widget-legendtitle-fontsrc:var(--widget-fontsrc);
 --treemap-widget-container-border-radius: var(--widget-container-border-radius);
 --treemap-widget-container-border-color: var(--widget-container-border-color);
+--treemap-widget-container-bg-color:var(--widget-primary-background);
 }

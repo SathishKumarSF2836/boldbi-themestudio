@@ -1,4 +1,6 @@
 :root{
 --image-widget-container-border-radius: var(--widget-container-border-radius);
 --image-widget-container-border-color: var(--widget-container-border-color);
+--image-widget-container-bg-color: var(--widget-primary-background);
+--image-widget-tooltip-fontsize: "";
 }

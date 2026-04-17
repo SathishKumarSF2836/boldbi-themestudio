@@ -36,5 +36,6 @@
  --dategroup-widget-checkbox-unchecked-bg:var(--checkbox-btn-unchecked-bg-color);
  --dategroup-widget-checkbox-unchecked-border:var(--checkbox-btn-unchecked-border-color);
  --dategroup-widget-checkbox-checked-bg:var(--checkbox-btn-checked-bg-color);
- --dategroup-widget-checkbox-checked-border:var(--checkbox-btn-checked-border-color); 
+ --dategroup-widget-checkbox-checked-border:var(--checkbox-btn-checked-border-color);
+ --dategroup-widget-container-bg-color:var(--widget-primary-background);
 }

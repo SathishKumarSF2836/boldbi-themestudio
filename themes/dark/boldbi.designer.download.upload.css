@@ -1,0 +1,28 @@
+:root {
+	--down-up-first-page-header-background-color: var(--secondary-background-color);
+	--down-up-header-back-button-color: var(--primary-text-normal-color);
+	--down-up-primary-text-color: var(--primary-text-normal-color);
+	--down-up-header-separator-color: #B3BBC5;
+	--down-up-header-close-icon-color: var(--down-up-header-back-button-color);
+	--down-up-primary-bg-color: #181E2B;
+	--down-up-first-page-child-bg-color: var(--down-up-first-page-header-background-color);
+	--down-up-first-page-child-border-color: var(--down-up-header-separator-color);
+	--down-up-first-page-footer-background-color: var(--down-up-first-page-header-background-color);
+	--down-up-upload-icon-bg-color: var(--down-up-first-page-header-background-color);
+	--down-up-upload-text-color: var(--down-up-header-separator-color);
+	--down-up-upload-file-bg-color: var(--designer-header-background);
+	--down-up-upload-file-delete-color: var(--primary-text-normal-color);
+	--down-up-upload-file-success-color: #22C55E;
+	--down-up-upload-file-invalid-color: #F25050;
+	--down-up-upload-file-uploading-color: var(--down-up-header-separator-color);
+	--down-up-upload-drag-drop-border-color: var(--down-up-header-separator-color);
+	--down-up-selected-category-bg-color: #4C545F;
+	--down-up-selected-category-border-color: #969DA6;
+	--down-up-selected-category-text-color: var(--primary-text-normal-color);
+	--down-up-dashboardlist-separator-color: var(--secondary-btn-border-disable-color);
+	--down-up-dashboardlist-close-icon: var(--down-up-header-separator-color);
+	--down-up-dashboard-selected-bg-color: var(--down-up-first-page-child-bg-color);
+	--down-up-dashboard-selected-border-color: var(--primary-branding-color);
+	--down-up-datasource-listing-bg-color: var(--down-up-upload-file-bg-color);
+	--down-up-upload-page-child-border-color:#333842;
+}

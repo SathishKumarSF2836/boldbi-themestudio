@@ -35,4 +35,21 @@
    --designer-font-family:"";
    --designer-fontsrc:"";
    --designer-loading-indicator-color: var(--loading-indicator-color);
+   --designer-itempanel-bg-color: var(--primary-background-color);
+   --designer-itempanel-header-bg-color :var(--designer-header-background);
+   --designer-itempanel-text-color : var(--primary-text-normal-color);
+   --designer-itempanel-tab-active-text-color :var(--primary-branding-color);
+   --designer-tab-normal-text-color : var(--primary-text-normal-color);
+   --designer-tab-hover-text-color:var(--primary-text-normal-color);
+   --designer-property-panel-bg-color :var(--primary-background-color);
+   --designer-property-panel-header-bg-color :var(--designer-header-background);
+   --designer-property-panel-text-color :var(--primary-text-normal-color);
+   --designer-property-panel-tab-active-text-color : var(--primary-branding-color);
+   --designer-assign-data-bg-color : var(--primary-background-color); 
+   --designer-assign-data-field-container-bg-color : var(--primary-background-color); 
+   --designer-assign-data-field-bg-color : var(--designer-header-background);
+   --designer-ds-list-container-bg-color :var(--primary-background-color);
+   --designer-ds-list-primary-text-normal-color :var(--primary-text-normal-color);
+   --designer-ds-list-secondary-text-normal-color :var(--secondary-text-normal-color);
+   --designer-parameter-injection-error-color: #ff4d4d;
 }

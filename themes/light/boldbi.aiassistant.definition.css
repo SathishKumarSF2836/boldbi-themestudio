@@ -1,0 +1,131 @@
+:root {
+    --ai-assistant-header-background-color: #ffffff;
+    --ai-assistant-header-text-color: #000000;
+    --ai-assistant-header-font-family: Roboto;
+
+    --ai-assistant-tooltip-text-color: #000000;
+
+    --ai-assistant-welcome-greet-text-color: #000000;
+    --ai-assistant-welcome-greet-font-family: Roboto;
+
+    --ai-assistant-relevant-question-background-color: #ffffff;
+    --ai-assistant-relevant-question-text-color: #0565ff;
+    --ai-assistant-relevant-question-font-family: Roboto;
+    --ai-assistant-relevant-question-shadow: 0 4px 8px #cccccc;
+    --ai-assistant-relevant-question-border: 1px solid #d3d9e4;
+
+    --ai-assistant-query-background-color: #e7f3f9;
+    --ai-assistant-query-text-color: #000000;
+    --ai-assistant-query-font-family: Roboto;
+
+    --ai-assistant-response-message-background-color: #ffffff;
+    --ai-assistant-response-message-text-color: #000000;
+
+    --ai-assistant-chatbody-background-color: #ffffff;
+    --ai-assistant-chatbody-box-shadow: 0px 8px 8px -4px #10182808, 0px 20px 24px -4px #10182814;
+
+    --ai-assistant-footer-background-color: #ffffff;
+
+    --ai-assistant-searchbox-background-color: #ffffff;
+    --ai-assistant-searchbox-text-color: #000000;
+    --ai-assistant-searchbox-font-family: Roboto;
+
+    --ai-assistant-usage-details-background-color: #ffffff;
+    --ai-assistant-usage-details-text-color: #000000;
+    --ai-assistant-usage-details-font-family: Roboto;
+    --ai-assistant-usage-details-box-shadow: 0 5px 15px #00000033, 0 0 10px #0000001a;
+    --ai-assistant-usage-details-before-border-left: 8px solid #ffffff;
+
+    --ai-assistant-detailed-usage-button-background-color: #F2F4F7;
+    --ai-assistant-detailed-usage-button-text-color: #667085;
+
+    --ai-assistant-feedback-icon-color: #000000;
+    --ai-assistant-toggle-icon-color: #000000;
+    --ai-assistant-help-icon-color: #000000;
+    --ai-assistant-reset-icon-color: #000000;
+
+    --ai-assistant-activation-text-color: #ffffff;
+
+    --ai-assistant-session-end-text-color: #ff0000;
+    --ai-assistant-session-end-border: solid #ff0000;
+    --ai-assistant-session-end-background: transparent;
+
+    --ai-assistant-chat-welcome-background-color: #FFFFFF;
+
+    --ai-assistant-chat-activate-border: 1px solid #d3d9e4;
+
+    --ai-assistant-summary-container-popup-background-color: #f9f9f9;
+    --ai-assistant-summary-container-popup-header-background-color: #F9FAFB;
+    --ai-assistant-summary-container-popup-footer-background-color: #F9FAFB;
+    --ai-assistant-summary-container-popup-border: 1px solid #C8C8C8;
+    --ai-assistant-summary-header-border-bottom: 1px solid #EAECF0;
+    --ai-assistant-summary-footer-border-top: 1px solid #EAECF0;
+    --ai-assistant-summary-header-text-color: #344054;
+    --ai-assistant-summary-toggle-icon-color: black;
+    --ai-assistant-summary-body-background-color: #fff;
+    --ai-assistant-widget-summary-chart-color: #344054;
+    --ai-assistant-widget-summary-unique-color: #344054;
+    --ai-assistant-summary-content-color: black;
+
+    --ai-assistant-dashboard-summary-container-popup-background-color: #f9fafb;
+    --ai-assistant-dashboard-summary-body-background-color: #f9fafb;
+    --ai-assistant-dashboard-summary-content-color: #475467;
+    --ai-assistant-dashboard-summary-icon-background-color: #F2F4F7;
+    --ai-assistant-summary-container-boxshadow: 0 4px 6px rgba(211, 211, 211, 0.6);
+    --ai-assistant-summary-container-border: 1px solid #C8C8C8;
+    
+    --ai-assistant-datasource-popup-background-color: #f9fafb;
+    --ai-assistant-dataset-name-hover-background-color: rgb(220,220,220);
+    --ai-assistant-dataset-name-border-bottom: 1px solid rgba(211, 211, 211, 0.6);
+
+    --ai-assistant-chat-welcome-page-release-description-background: #eff8ff;
+    --ai-assistant-chat-welcome-page-release-description-border: 1px solid #1570EF;
+    --ai-assistant-welcome-release-notes-content-color: #475467;
+    --ai-assistant-release-chart-create-text-color: #344054;
+    --ai-assistant-chat-help-link-margin: #0565FF;
+    --ai-assistant-chat-help-video-link-margin: #0565FF;
+    --ai-assistant-chat-help-link-divider-background-color: #D0D5DD;
+
+    --ai-assistant-terms-and-condition-color: #4B8CF7;
+    --ai-assistant-license-link-color: #4B8CF7;
+    --ai-assistant-license-success-color: #4B8CF7;
+
+    /* Unified ai assistant code starts */
+    --unified-ai-assistant-chat-title-color: #1a1a1a;
+    --unified-ai-assistant-welcome-content-color: black;
+    --unified-ai-assistant-footer-box-background-color: #f9f9f9;
+    --unified-ai-assistant-chat-search-box-background-color: #ffffff;
+    --unified-ai-assistant-chat-search-box-color: black;
+    --unified-ai-assistant-action-button-background-color:#F9FAFB;
+    --unified-ai-assistant-action-button-color:black;
+    --unified-ai-assistant-action-button-border: 1px solid #EAECF0;
+    --unified-ai-assistant-chat-header-background-color:rgb(255, 255, 255);
+    --unified-ai-assistant-chat-layout-background-color:rgb(255, 255, 255);
+    --unified-ai-assistant-chat-title-welcome-color:  #1a1a1a;
+    --unified-ai-assistant-chat-footer-background-color: rgb(255, 255, 255);
+    --unified-ai-assistant-action-button-hover-backgound-color: #eeeeee;
+    --unified-ai-assistant-action-button-hover-color: black;
+    --unified-ai-assistant-action-button-hover-border-color: #a0a4a8;
+    --unified-ai-assistant-chat-content-wrapper-background-color: rgb(255, 255, 255);
+    --unified-ai-chat-assistant-content-background-color: rgb(255, 255, 255);
+    --unified-ai-assistant-selected-text-area-background-color: #e9f5f8;
+    --unified-ai-assistant-chat-query-background-color: #ffffff;
+    --unified-ai-assistant-chat-answer-background-color: #F9FAFB;
+    --unified-ai-assistant-chat-query-border: 1px #80808042 solid;
+    --unified-ai-assistant-response-suggestions-background-color:white;
+    --unified-ai-assistant-response-suggestions-color:#344054;
+    --unified-ai-assistant-response-suggestions-border: 1px solid #D0D5DD;
+    --unified-ai-assistant-category-button-background-color:#F9FAFB;
+    --unified-ai-assistant-category-button-color:black;
+    --unified-ai-assistant-category-button-border: 1px solid #EAECF0;
+    --unified-ai-assistant-history-item-container-color:#475467;
+    --unified-ai-assistant-history-item-container-hover-backgound-color: #eeeeee;
+    --unified-ai-assistant-history-item-container-hover-color: black;
+    --unified-ai-assistant-history-item-container-active-backgound-color: #eeeeee;
+    --unified-ai-assistant-history-item-container-active-color: black;
+    --unified-ai-assistant-history-header-backgound-color: #f2f4f7;
+    
+    --unified-ai-assistant-toggle-background-color: #ccc;
+     --unified-ai-assistant-toggle-active-background-color: white;
+    /* Unified ai assistant code ends */
+}

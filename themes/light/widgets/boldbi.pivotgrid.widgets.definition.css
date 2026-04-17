@@ -28,13 +28,13 @@
  --pivotgrid-widget-content-selection-font-fontweight:var(--widget-fontweight);
  --pivotgrid-widget-content-selection-font-fontfamily:var(--widget-fontfamily);
  --pivotgrid-widget-content-selection-font-fontsrc:var(--widget-fontsrc);
- --pivotgrid-widget-header-background:var(--hover-bg-normal-color);
+ --pivotgrid-widget-header-background:#F3F7FA;
  --pivotgrid-widget-header-font-color:var(--widget-secondary-font-color);
  --pivotgrid-widget-header-fontsize:var(--widget-fontsize);
  --pivotgrid-widget-header-fontweight:var(--widget-fontweight);
  --pivotgrid-widget-header-fontfamily:var(--widget-fontfamily);
  --pivotgrid-widget-header-fontsrc:var(--widget-fontsrc);
- --pivotgrid-widget-groupingbutton-background:var(--widget-primary-background);
+ --pivotgrid-widget-groupingbutton-background:#718096;
  --pivotgrid-widget-groupingButton-font-color:#696969;
  --pivotgrid-widget-groupingButton-fontsize:var(--widget-fontsize);
  --pivotgrid-widget-groupingButton-fontweight:var(--widget-fontweight);
@@ -43,11 +43,11 @@
  --pivotgrid-widget-groupingButton-icon-font-color:var(--widget-icon-font-color);
  --pivotgrid-widget-groupingButton-icon-fontsize:var(--widget-fontsize);
  --pivotgrid-widget-groupingButton-icon-fontweight:var(--widget-fontweight);
- --pivotgrid-widget-groupingButton-icon-hover-background:var(--hover-bg-normal-color);
+ --pivotgrid-widget-groupingButton-icon-hover-background:#647287;
  --pivotgrid-widget-groupingButton-icon-hover-font-color:var(--widget-icon-font-color);
  --pivotgrid-widget-groupingButton-icon-hover-fontsize:var(--widget-fontsize);
  --pivotgrid-widget-groupingButton-icon-hover-fontweight:var(--widget-fontweight);
- --pivotgrid-widget-groupingpanel-background:#e9e9e9;
+ --pivotgrid-widget-groupingpanel-background:#F3F7FA;
  --pivotgrid-widget-filterdialog-list-bordercolor:var(--secondary-border-color);
  --pivotgrid-widget-filterdialog-list-background:var(--widget-primary-background);
  --pivotgrid-widget-filterdialog-list-font-color:var(--widget-secondary-font-color);
@@ -105,6 +105,9 @@
  --pivotgrid-widget-filterdialog-header-fontsrc:var(--widget-fontsrc);
  --pivotgrid-widget-container-border-radius: var(--widget-container-border-radius);
  --pivotgrid-widget-container-border-color: var(--widget-container-border-color);
+ --pivotgrid-widget-container-bg-color:var(--widget-primary-background);
+ --pivotgrid-widget-drill-down-icon-font-size: 12px;
+ --pivotgrid-widget-header-hover-background: #F5F8FB;
 }
  
  

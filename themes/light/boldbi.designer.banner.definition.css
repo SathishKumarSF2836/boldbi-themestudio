@@ -16,5 +16,8 @@
  --banner-icon-hover-fontfamily:var(--designer-font-family);
  --banner-icon-hover-fontsrc:var(--designer-fontsrc);
  --banner-icon-hover-background:var(--hover-icon-background-color);
+ --dashboard-description-font-size: "inherit";
+ --dashboard-description-font-weight: "normal";
+ --dashboard-description-font-family: var(--designer-font-family);
 }
  

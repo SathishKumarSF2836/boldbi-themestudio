@@ -32,4 +32,5 @@
 --scatter-widget-legend-fontsrc:var(--widget-fontsrc);
 --scatter-widget-container-border-radius: var(--widget-container-border-radius);
 --scatter-widget-container-border-color: var(--widget-container-border-color);
+--scatter-widget-container-bg-color:var(--widget-primary-background);
 }

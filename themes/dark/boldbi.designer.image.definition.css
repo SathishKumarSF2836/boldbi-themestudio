@@ -13,10 +13,16 @@
   --parameter-icon: url('dark/images/parameter.png');
   --question-icon: url('dark/images/question.svg');
   --success-icon: url('dark/images/success.svg');
+  --querysuccess-icon: url('dark/images/querysuccess.svg');
+  --querywarning-icon: url('dark/images/warning_icon.svg');
   --waiting-loading-indicator-icon: url('dark/images/loading_indicator.svg');
   --layout-update-row-svg: url('dark/images/update_row.svg');
   --warning-png-icon: url('dark/images/warning.png');
   --warning-svg-icon: url('dark/images/warning.svg');
   --warning-sync-icon: url('dark/images/warning_sync.svg');
+  --open-link-png-icon: url('dark/images/open_link.png');
+  --new-info-png-icon: url('dark/images/new_info.png');
   --color-picker-model-image: url('common-images/colorpicker_dark.png');
+  --link-icon: url('dark/images/linkicon.svg');
+  --learnmore-link-icon: url('dark/images/learnmore.svg');
 }

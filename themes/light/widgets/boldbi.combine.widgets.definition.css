@@ -1,4 +1,5 @@
 :root{
 --combine-widget-container-border-radius: var(--widget-container-border-radius);
 --combine-widget-container-border-color: var(--widget-container-border-color);
+--combine-widget-container-bg-color: var(--widget-primary-background);
 }

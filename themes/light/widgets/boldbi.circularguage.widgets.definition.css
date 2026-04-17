@@ -10,6 +10,9 @@
 --circulargauge-widget-subtitle-fontfamily:var(--widget-fontfamily);
 --circulargauge-widget-subtitle-fontsrc:var(--widget-fontsrc);
 --circulargauge-widget-needle-pointer-background:var(--widget-label-secondary-font-color);
+--circulargauge-widget-rangeselection-range-one:#FF6C40;
+--circulargauge-widget-rangeselection-range-two:#FFE700;
+--circulargauge-widget-rangeselection-range-three:#2CD9C5;
 --circulargauge-widget-scale-background:#E0E0E0;
 --circulargauge-widget-target-pointer-background:#424242;
 --circulargauge-widget-label-font-color:var(--widget-label-secondary-font-color);
@@ -36,4 +39,5 @@
 --circulargauge-widget-differencevalue-high-color:#2CD9C5;
 --circulargauge-widget-container-border-radius: var(--widget-container-border-radius);
 --circulargauge-widget-container-border-color: var(--widget-container-border-color);
+--circulargauge-widget-container-bg-color:var(--widget-primary-background);
 }

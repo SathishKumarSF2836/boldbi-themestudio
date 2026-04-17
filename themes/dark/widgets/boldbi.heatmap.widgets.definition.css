@@ -32,4 +32,5 @@
 --heatmap-widget-legend-fontsrc:var(--widget-fontsrc);
 --heatmap-widget-container-border-radius: var(--widget-container-border-radius);
 --heatmap-widget-container-border-color: var(--widget-container-border-color);
+--heatmap-widget-container-bg-color:var(--widget-primary-background);
 }

@@ -9,8 +9,8 @@
     --userfilter-hover-bg: var(--hover-bg-normal-color);
     --query-filter-container-bg: var(--secondary-background-color);
     --query-filter-text-color: var(--primary-text-normal-color);
-    --querydesigner-background: var(--primary-background-color);
-    --querydesigner-container-background: var(--secondary-background-color);
+    --querydesigner-primary-background-color: var(--primary-background-color);
+    --querydesigner-secondary-background-color: var(--secondary-background-color);
     --param-background: var(--primary-background-color);
     --param-container-background: var(--secondary-background-color);
     --param-input-background: var(--designer-input-readonly-background);
@@ -22,4 +22,12 @@
 	--querydesigner-secondary-border-color: var(--secondary-border-color);
      --querydesigner-radio-button-disable-border-color: var(--disable-icon-color);
      --querydesigner-switch-button-disable-foreground-color: var(--active-icon-normal-color);
+    --querydesigner-schema-area-bg-color : var(--querydesigner-primary-background-color);
+    --querydesigner-shared-schema-area-bg-color : var(--querydesigner-primary-background-color);
+    --querydesigner-shared-schema-area-text-color :var(--primary-text-normal-color);
+    --querydesigner-data-table-normal-bg-color :var(--querydesigner-primary-background-color);
+    --querydesigner-data-table-column-active-bg-color :var(--active-bg-normal-color);
+    --querydesigner-data-preview-bg-color :var(--querydesigner-primary-background-color);
+    --querydesigner-data-preview-header-bg-color :var(--querydesigner-secondary-background-color);
+    --querydesigner-surface-container-bg-color:var(--querydesigner-secondary-background-color);
 }

@@ -10,6 +10,9 @@
 --circulargauge-widget-subtitle-fontfamily:var(--widget-fontfamily);
 --circulargauge-widget-subtitle-fontsrc:var(--widget-fontsrc);
 --circulargauge-widget-needle-pointer-background:#bbbcbb;
+--circulargauge-widget-rangeselection-range-one:#CC5733;
+--circulargauge-widget-rangeselection-range-two:#B3A000;
+--circulargauge-widget-rangeselection-range-three:#1FA89C;
 --circulargauge-widget-scale-background:#bbbcbb;
 --circulargauge-widget-target-pointer-background:#9A9A9A;
 --circulargauge-widget-label-font-color:var(--widget-secondary-font-color);
@@ -36,4 +39,5 @@
 --circulargauge-widget-differencevalue-high-color:#2CD9C5;
 --circulargauge-widget-container-border-radius: var(--widget-container-border-radius);
 --circulargauge-widget-container-border-color: var(--widget-container-border-color);
+--circulargauge-widget-container-bg-color:var(--widget-primary-background);
 }
